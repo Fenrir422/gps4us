@@ -1,0 +1,11 @@
+
+
+.randomdiv{
+	background-color:green;
+	font-size:3em;
+
+}
+.innerdiv{
+	background-color: blue;
+	display: inline-block;
+}
